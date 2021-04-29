@@ -1,4 +1,4 @@
-# MEAn-todo
+# MEAN-todo
 
 ## Installation
 
@@ -17,4 +17,4 @@ cd server
 npm i
 npm start
 ```
-After this go to the browser and type localhost:4200s
+After this go to the browser and type localhost:4200
